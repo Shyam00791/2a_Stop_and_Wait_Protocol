@@ -74,7 +74,8 @@ client:
 
 server:
 
-<img width="1381" height="286" alt="Screenshot 2025-09-30 084440" src="https://github.com/user-attachments/assets/3d12719f-a449-4e52-8f85-89346631d899" />
+<img width="1374" height="302" alt="Screenshot 2025-09-30 084717" src="https://github.com/user-attachments/assets/6722446b-6b1c-476d-a051-9cb5a4de94aa" />
+
 
 
 
