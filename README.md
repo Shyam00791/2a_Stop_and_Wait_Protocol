@@ -68,11 +68,14 @@ while True:
 
 client:
 
-<img width="710" height="312" alt="image" src="https://github.com/user-attachments/assets/067ba8be-c631-4743-8f95-e304916d4346" />
+<img width="1364" height="326" alt="Screenshot 2025-09-30 084420" src="https://github.com/user-attachments/assets/f7649661-b9de-4574-bd2c-86a56f98c3b2" />
+
+
 
 server:
 
-<img width="701" height="194" alt="image" src="https://github.com/user-attachments/assets/a2ea4522-6c80-4e9d-b20e-2f867db60797" />
+<img width="1381" height="286" alt="Screenshot 2025-09-30 084440" src="https://github.com/user-attachments/assets/3d12719f-a449-4e52-8f85-89346631d899" />
+
 
 
 ## RESULT
